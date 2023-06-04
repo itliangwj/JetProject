@@ -13,6 +13,7 @@
         <module>demo-mybatis-plus</module>
         <module>demo-start</module>
         <module>demo-start-test</module>
+        <module>my-spring-framework</module>
     </modules>
 
     <parent>
